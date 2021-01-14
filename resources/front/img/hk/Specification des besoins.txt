@@ -1,0 +1,44 @@
+===================================================
+Analyse et specification des besoins du site du gouvernorat du haut-katanga
+1. Ministeres
+	-MINISTÈRE DES FINANCES 
+	-MINISTÈRE DE LA SANTE PUBLIQUE, ÉDUCATION, CULTURE ET ART
+	-MINISTÈRE DE LA JEUNESSE, SPORTS ET LOISIRS 
+	-MINISTÈRE DES INFRASTRUCTURES ET TRAVAUX PUBLICS 
+	-MINISTÈRE DE L’AGRICULTURE, ÉLEVAGE, PÊCHE ET DÉVELOPPEMENT RURAL
+	-MINISTÈRE DE L’ÉCONOMIE, COMMERCE ET INDUSTRIE
+	-MINISTÈRE DE ÉNERGIE, HYDROCARBURES, TRANSPORT ET VOIES DE COMMUNICATIONS
+	-MINISTÈRE DE ENVIRONNEMENT, DÉVELOPPEMENT DURABLE ET TOURISME 
+	-MINISTÈRE DE L’INTERIEUR SÉCURITÉ ET FONCTION PUBLIQUE
+	-MINISTÈRE DES MINES ET ÉMERGENCE DE LA CLASSE MOYENNE
+2. Administration
+	2.1 Executif Provincial
+	2.2 Assemblee Provinciale
+	2.3 Gouvernorat Haut-Katanga
+3. Villes (Mairies)
+	3.1 Lubumbashi
+	3.2 Likasi 
+4. Territoires
+	-Kipushi
+	-Sakania
+	-Kambove
+	-Pweto
+	-Kasenga
+	-Mitwaba 
+5. Rubriques 
+	-Sante
+	-Education
+	-Politique
+	-Securite
+	-Economique
+	-Developpement
+	-Nationale
+	-Sociale
+6. Les actualites 
+
+7. Programmes
+	-Plan d'actions
+	-Arretes Provinciaux
+	-Les annonces 
+	-Conseils d'administration
+	-Conseils des ministres
